@@ -320,7 +320,7 @@ In this step, we will be creating a CloudWatch Events rule to capture AWS Abuse 
 1. Navigate to the Amazon CloudWatch console by clicking on the **Services** drop-down, typing **CloudWatch** in the search bar, and pressing Enter.
 2. In the **Navigation** pane, select **Rules**.
 3. Click on **Create rule**.
-4. Under **Event Patter Preview**, click on **Edit**.
+4. Under **Event Pattern Preview**, click on **Edit**.
 5. Paste below rule.
 
     ```
